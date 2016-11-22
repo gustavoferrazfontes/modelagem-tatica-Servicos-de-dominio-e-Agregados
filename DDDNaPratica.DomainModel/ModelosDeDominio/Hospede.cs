@@ -26,6 +26,6 @@ namespace DDDNaPratica.DomainModel
             AgendaTelefonica = agenda;
             Endereco = endereco;
             Email = email;
-        }
+        }   
     }
 }
